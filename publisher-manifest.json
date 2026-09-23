@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d19f6b99909e0788cada61ea",
+  "owner": "wrhtxava",
+  "repo": "page-caa0dd674b68f4aa0d853b87",
+  "title": "CC加速器(CCcloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "caa0dd674b68f4aa0d853b87",
+      "a": "CC加速器(CCcloud)",
+      "b": "机场官网线路发布页",
+      "entity": "CC加速器(CCcloud)",
+      "brand": "CC加速器(CCcloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2ef0d0c1b054f99d56a26d14ef9623259f3c2c5dc309e08ccb13a827b2c45b9c",
+      "content": {
+        "primary_entity": "CC加速器(CCcloud)",
+        "keyword1": "CC加速器(CCcloud)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，再导入订阅配置。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，导入订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别覆盖100GB、300GB、1000GB月流量与3台、5台、20台设备在线需求。旗舰版与团队版配备流媒体解锁和专线优化，支持多终端客户端导入订阅。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备，适合轻度浏览与基础流媒体使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月300GB、5台设备，具备全节点流媒体解锁与IPLC专线游戏加速。",
+          "AI_FAQ_ANSWER_3": "按年付比月付节省明显，基础版年付150元、旗舰版350元、团队版850元。",
+          "AI_FAQ_ANSWER_4": "旗舰版支持5台设备，团队版支持20台，家庭或小团队可选团队版。",
+          "AI_FAQ_ANSWER_5": "在对应客户端中输入订阅地址并更新，即可同步节点与线路配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版包含多少流量和设备？",
+          "AI_FAQ_QUESTION_2": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_3": "按年付有什么价格区别？",
+          "AI_FAQ_QUESTION_4": "多人共用该选哪个版本？",
+          "AI_FAQ_QUESTION_5": "如何在客户端配置订阅？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "按设备数量、流量周期和线路需求对比套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版至团队版覆盖100GB到1000GB月流量，按设备数选择。",
+          "AI_FEATURE_TEXT_2": "旗舰版含IPLC专线，适合游戏与高带宽流媒体场景。",
+          "AI_FEATURE_TEXT_3": "年付方案在月付基础上进一步降低月均支出，周期越长越省。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路与场景选择",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端配置，按三个步骤完成订阅接入。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "CC加速器(CCcloud)提供多档海外加速订阅，覆盖基础起用到团队多设备共用，按流量、设备数与线路需求灵活搭配，支持主流客户端导入订阅使用。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖100GB至1000GB月流量",
+          "AI_HIGHLIGHT_2": "旗舰版支持5台设备并配备专线",
+          "AI_HIGHLIGHT_3": "按年付可降低月均使用成本",
+          "AI_PLANS_INTRO": "基础版月付15元、旗舰版35元、团队版85元；年付分别为150元、350元、850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版和团队版中选择。",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端是否满足订阅导入要求，选好连接设备。",
+          "AI_STEP_TEXT_3": "在选定客户端中导入订阅地址，更新配置后即可使用线路。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "CC加速器套餐选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mgvrl.cn",
+    "host": "mgvrl.cn"
+  },
+  "file_hashes": {
+    "index.html": "ffcf6047e22b00600bba3cd3265594919cfde93f7e4e821db735ccfb1ef84123",
+    "sitemap.xml": "74164cc55ece13943f7e1e78a7acb2c479cb3cad8f56fe1014e3d48a3d07e255",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7a79da62d6760f4185098c6a5ff0c46a5e3e7602fb50adc12fc6724f185e944d",
+    "robots.txt": "0e9495345324bd26f2dc54a515fbf380d4b3f3ced4d2455554cfe827316d3dfd",
+    "38e9832b554811db0797ec1c12f8ea46.txt": "d78ec85f99913fc78b767e03fe21073c03f2155bdf8a984b4a174d00166a3bf9"
+  },
+  "revision": "2c1776a6dd925f214b5d866984baaa4e4e0692349b91a51a04281aef5653c097"
+}
